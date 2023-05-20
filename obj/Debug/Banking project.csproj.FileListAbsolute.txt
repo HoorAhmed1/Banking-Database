@@ -1,0 +1,13 @@
+D:\Database\Banking project\Banking project\bin\Debug\Banking project.exe.config
+D:\Database\Banking project\Banking project\bin\Debug\Banking project.exe
+D:\Database\Banking project\Banking project\bin\Debug\Banking project.pdb
+D:\Database\Banking project\Banking project\obj\Debug\Banking project.csprojAssemblyReference.cache
+D:\Database\Banking project\Banking project\obj\Debug\Banking_project.Form1.resources
+D:\Database\Banking project\Banking project\obj\Debug\Banking_project.Properties.Resources.resources
+D:\Database\Banking project\Banking project\obj\Debug\Banking project.csproj.GenerateResource.cache
+D:\Database\Banking project\Banking project\obj\Debug\Banking project.csproj.CoreCompileInputs.cache
+D:\Database\Banking project\Banking project\obj\Debug\Banking project.exe
+D:\Database\Banking project\Banking project\obj\Debug\Banking project.pdb
+D:\Database\Banking project\Banking project\obj\Debug\Banking_project.First_Form.resources
+D:\Database\Banking project\Banking project\obj\Debug\Banking_project.frm_banking.resources
+D:\Database\Banking project\Banking project\obj\Debug\Banking_project.status_form.resources
